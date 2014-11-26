@@ -140,8 +140,8 @@
     <hintset pointTag="hr00">
       <hstem pos="-8" width="40" />
       <hstem pos="209" width="44" />
-      <hstem pos="403" width="-20" />
       <hstem pos="390" width="42" />
+      <hstem pos="403" width="28" />
       <hstem pos="538" width="40" />
       <hstem pos="729" width="42" />
       <vstem pos="11" width="45" />

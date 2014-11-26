@@ -155,7 +155,6 @@
     <hintset pointTag="hr00">
       <hstem pos="-207" width="44" />
       <hstem pos="-15" width="52" />
-      <hstem pos="10" width="-21" />
       <hstem pos="215" width="51" />
       <vstem pos="11" width="54" />
       <vstem pos="11" width="45" />

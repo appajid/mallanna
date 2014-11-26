@@ -3,33 +3,5 @@
   <advance width="190"/>
   <unicode hex="005D"/>
   <outline>
-    <contour>
-      <point x="148" y="595" type="line" name="hr00"/>
-      <point x="24" y="595" type="line"/>
-      <point x="24" y="564" type="line"/>
-      <point x="101" y="564" type="line"/>
-      <point x="101" y="567" type="line"/>
-      <point x="101" y="-56" type="line"/>
-      <point x="101" y="-54" type="line"/>
-      <point x="24" y="-54" type="line"/>
-      <point x="24" y="-87" type="line"/>
-      <point x="148" y="-87" type="line"/>
-      <point x="148" y="-85" type="line"/>
-    </contour>
   </outline>
-  <lib>
-  <dict>
-  <key>com.adobe.type.autohint</key>
-  <data>
-  <hintSetList>
-    <hintset pointTag="hr00">
-      <hstem pos="-87" width="33" />
-      <hstem pos="564" width="31" />
-      <vstem pos="24" width="77" />
-      <vstem pos="101" width="47" />
-    </hintset>
-  </hintSetList>
-  </data>
-  </dict>
-  </lib>
 </glyph>

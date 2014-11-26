@@ -217,9 +217,8 @@
       <hstem pos="-10" width="47" />
       <hstem pos="174" width="50" />
       <hstem pos="189" width="56" />
-      <hstem pos="409" width="-20" />
-      <hstem pos="391" width="49" />
       <hstem pos="391" width="45" />
+      <hstem pos="391" width="49" />
       <hstem pos="537" width="50" />
       <hstem pos="729" width="51" />
       <vstem pos="11" width="59" />
